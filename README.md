@@ -273,7 +273,8 @@ Contact - students@allinopensource.org
 - Name: Vera Dureke
 - School: Eastern Gateway Community College 
 - Favorite Quote: “It always seems impossible until it is done.” - Nelson Mandela
----
-Name: Piyaporn Puangprasert <br>
-School: Rutgers University <br>
-Favorite Quote: “Live is short, do everything the best.” - Unknow <br>
+----
+- Name: Piyaporn Puangprasert <br>
+- School: Rutgers University <br>
+- Favorite Quote: “Live is short, do everything the best.” - Unknow <br>
+----
