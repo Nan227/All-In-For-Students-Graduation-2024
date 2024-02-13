@@ -274,6 +274,6 @@ Contact - students@allinopensource.org
 - School: Eastern Gateway Community College 
 - Favorite Quote: “It always seems impossible until it is done.” - Nelson Mandela
 ---
-Name: Piyaporn Puangprasert
-School: Rutgers University
-Favorite Quote: “Live is short, do everything the best.” - Unknow
+Name: Piyaporn Puangprasert <br>
+School: Rutgers University <br>
+Favorite Quote: “Live is short, do everything the best.” - Unknow <br>
